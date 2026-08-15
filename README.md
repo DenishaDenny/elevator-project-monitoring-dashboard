@@ -6,6 +6,10 @@ An interactive Excel dashboard developed for monitoring elevator installation pr
 
 ![Elevator Project Monitoring Dashboard](Dashboard-Screenshot.png)
 
+## 📄 Case Study
+
+[View the Complete Case Study (PDF)](Elevator_Project_Monitoring_Case_Study.pdf)
+
 ## 🔍 Project Overview
 
 This dashboard provides a centralized view of elevator installation project performance and helps monitor key project metrics through interactive charts, KPI cards, and slicers.
