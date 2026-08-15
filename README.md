@@ -75,6 +75,7 @@ These filters allow users to dynamically analyze project information.
 
 - `Elevator_Project_Monitoring_Dashboard_V1.xlsx` — Interactive Excel dashboard
 - `Dashboard-Screenshot.png` — Dashboard preview
+- - Elevator_Project_Monitoring_Case_Study.pdf — Detailed project case study
 
 ## 👤 Author
 
